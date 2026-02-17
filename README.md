@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project focuses on data immersion, cleaning, and transformation of the Superstore Retail Sales dataset using Python. 
 
-The objective was to convert raw transactional retail data into a clean, structured, and analysis-ready dataset suitable for exploratory data analysis (EDA), visualization, and business intelligence reporting.
+The objective is to convert raw transactional retail data into a clean, structured, and analysis-ready dataset suitable for exploratory data analysis (EDA), visualization, and business intelligence reporting.
 
 The final cleaned dataset is saved as:
 cleaned_superstore.csv
@@ -70,9 +70,7 @@ The cleaned dataset enables:
 ## 🛠 Tools & Technologies
 - Python
 - Pandas
-- NumPy
-- Jupyter Notebook
-
+- Plotly
 ---
 
 ## ✅ Final Output
